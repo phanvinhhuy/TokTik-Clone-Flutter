@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "112405944608",
+    "project_id": "toktik-clone",
+    "storage_bucket": "toktik-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112405944608:android:47942f318699b71d455f45",
+        "android_client_info": {
+          "package_name": "com.toktik_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112405944608-ptpjc04n0h4uk3h2182bp1mb6av6lmpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwPQF3Xl-sKCt7quMV4aSBfqZGbHpJcTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112405944608-ptpjc04n0h4uk3h2182bp1mb6av6lmpm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
